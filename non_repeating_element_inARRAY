@@ -23,5 +23,7 @@ int main() {
     findNonRepeatingElement(nums);
     
     return 0;
+    
 }
+
  this can be emplemented using freuncy array too//
